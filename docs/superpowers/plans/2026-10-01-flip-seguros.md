@@ -64,3 +64,6 @@ User explicitly instructed “faça” after scope review; proceed in this sessi
 - Catalogue and message tests: 7 passing. Six local routes and all referenced local assets verified.
 - Browser: category filtering, detail loading, Escape/focus restoration, mobile navigation, contact preparation and 390px overflow verified. No errors in browser console.
 - Independent static review: no important bugs or missing captured content.
+
+- Final visual direction: fluid photo crops, rounded actions and varied photo-led sections. User rejected italic typography; all highlights use upright brand typography.
+- Publication succeeded privately; final typography update is being published to the same Site.

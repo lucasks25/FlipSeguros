@@ -64,3 +64,7 @@ Verificar desktop e celular, ausência de overflow, carregamento das imagens, me
 ## Critérios de conclusão
 
 O visitante reconhece a Flip, encontra qualquer modalidade original, entende a atuação da corretora e consegue solicitar proposta ou contato. O site apresenta composição refinada em desktop e celular, conteúdo fiel, controles funcionais e prévia verificável. A entrega informa qualquer dependência externa ou limitação real.
+
+## Alterações solicitadas durante a implementação
+
+O usuário ampliou o escopo para recriar Produtos, Quem somos, Proposta, Contato e Privacidade diretamente no novo site. Os formulários de contato e proposta são nativos e preparam uma mensagem para o aplicativo de e-mail do visitante, com revisão explícita antes do envio; não há serviço SMTP conectado. A direção final usa recortes fotográficos fluidos, botões arredondados, menos caixas repetidas e tipografia sem itálico, conforme a preferência expressa do usuário.

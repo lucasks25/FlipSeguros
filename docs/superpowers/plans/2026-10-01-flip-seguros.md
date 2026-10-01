@@ -56,3 +56,11 @@
 ## Execution record
 
 User explicitly instructed “faça” after scope review; proceed in this session without another approval request. Presentation changes are reversible and will use direct browser verification; automated tests cover the meaningful catalogue logic.
+
+## Scope and verification updates
+
+- User expanded scope to six native main pages. Quote/contact forms now prepare email messages directly in the new site; do not falsely claim delivery.
+- User requested stronger visual design and removal of text arrows. Reworked contact composition, typography, product page and shared styling; removed unicode arrows across all pages.
+- Catalogue and message tests: 7 passing. Six local routes and all referenced local assets verified.
+- Browser: category filtering, detail loading, Escape/focus restoration, mobile navigation, contact preparation and 390px overflow verified. No errors in browser console.
+- Independent static review: no important bugs or missing captured content.

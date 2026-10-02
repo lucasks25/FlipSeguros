@@ -18,6 +18,10 @@ npm test
 
 O site é estático e está em `site/dist`. Consulte `site/README.md` para detalhes de conteúdo, formulários e imagens. Os formulários preparam mensagens para envio no aplicativo de e-mail; não há backend de envio automático.
 
+## Publicar na Vercel
+
+Importe este repositório usando a raiz do repositório como **Root Directory**. O arquivo `vercel.json` define o site como estático e publica somente `site/dist`, sem instalação ou compilação. As páginas HTML, imagens e scripts dessa pasta são servidos diretamente.
+
 ## Apresentação
 
 O PDF da proposta está em `output/pdf/Flip-Seguros-Apresentacao.pdf`.
